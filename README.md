@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project (Udacity - Data Science Nanodegree)
+# Disaster Response Pipeline Project
 
 ## Table of Contents
 1. [Description](#description)
@@ -7,6 +7,7 @@
 	2. [Installing](#installation)
 	3. [Executing Program](#execution)
 	4. [Additional Material](#material)
+	5. [Important Files](#importantfiles)
 3. [Acknowledgement](#acknowledgement)
 
 <a name="descripton"></a>
